@@ -8,6 +8,7 @@ Soy un programador Junior que todavía esta en proceso de entrada a este maravil
 - CSS
 
 ### --> Y se ocupar muy bien las tecnologías de:
+- Git
 - Gemini
 - Opencode
 
