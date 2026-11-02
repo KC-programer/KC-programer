@@ -1,13 +1,13 @@
-## Hola, mi nombre es Kevin Cotto 👋​
+# Hola, mi nombre es Kevin Cotto 👋​
 Soy un programador Junior que todavía esta en proceso de entrada a este maravilloso mundo.
 
---> Tengo conocimientos amplios conocimientos en los lenguajes:
+### --> Tengo conocimientos amplios conocimientos en los lenguajes:
 - Python 
 - C
 - HTML
 - CSS
 
---> Y se ocupar muy bien las tecnologías de:
+### --> Y se ocupar muy bien las tecnologías de:
 - Gemini
 - Opencode
 
