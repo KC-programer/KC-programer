@@ -7,7 +7,7 @@ Soy un programador Junior que todavía esta en proceso de entrada a este maravil
 - HTML
 - CSS
 
---> Y se ocupar muy bien la tecnologías de:
+--> Y se ocupar muy bien las tecnologías de:
 - Gemini
 - Opencode
 
