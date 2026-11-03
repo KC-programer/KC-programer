@@ -1,4 +1,4 @@
-# Hola, mi nombre es Kevin Cotto 👋​
+# Hola, mi nombre es Kevin👋​
 Soy un programador Junior que todavía esta en proceso de entrada a este maravilloso mundo.
 
 ### --> Tengo conocimientos amplios conocimientos en los lenguajes:
