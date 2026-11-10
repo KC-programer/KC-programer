@@ -1,28 +1,17 @@
 # Hola, mi nombre es Kevin👋​
-Soy un programador Junior que todavía esta en proceso de entrada a este maravilloso mundo.
+Soy un programador Junior que todavía esta en proceso de aprendizaje.
 
-### --> Tengo conocimientos amplios conocimientos en los lenguajes:
-- Python 
-- C
-- HTML
-- CSS
+### --> Lenguajes
+![Python](https://img.shields.io/badge/Python-blue?logo=Python&labelColor=A3A3C7)
 
-### --> Y se ocupar muy bien las tecnologías de:
-- Git
-- Gemini
-- Opencode
+![C](https://img.shields.io/badge/C-purple?logo=C&labelColor=32004A)
 
-<!--
-**KC-programer/KC-programer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![HTML5](https://img.shields.io/badge/HTML-orange?logo=HTML5&labelColor=FFA775)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### --> Tecnologías
+![Git](https://img.shields.io/badge/Git-red?logo=Git&labelColor=520000)
+
+![Gemini](https://img.shields.io/badge/Gemini-blue?logo=Google%20Gemini&labelColor=A1E6FF)
+
+![Opencode](https://img.shields.io/badge/Opencode-black?logo=Opencode)
